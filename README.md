@@ -1,4 +1,4 @@
 MMI
 ===
 
-Métodos Matemáticos de la Informática
+Problemas resueltos de MMI y unicornios.
